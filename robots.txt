@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victoriotripodefilms.com.ar/sitemap.xml
